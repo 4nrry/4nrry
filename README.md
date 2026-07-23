@@ -21,7 +21,8 @@ re-syncs itself from the GitHub API every six hours
   [opencherry.dev](https://opencherry.dev)
 - [@smart-compost/mcp](https://www.npmjs.com/package/@smart-compost/mcp): MCP server for the
   Smart Compost platform API, on npm
-- Upstream PRs to [ai-usagebar](https://github.com/akitaonrails/ai-usagebar) and
-  [temakuri](https://github.com/franceschinii/temakuri-frontend)
+- Upstream PRs to [ai-usagebar](https://github.com/akitaonrails/ai-usagebar),
+  [samsung-galaxy-book-linux-fixes](https://github.com/Andycodeman/samsung-galaxy-book-linux-fixes)
+  and [temakuri](https://github.com/franceschinii/temakuri-frontend)
 
 Say hi: anrry.petrin@hotmail.com
