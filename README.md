@@ -2,10 +2,13 @@
 
 Software engineer. I build IoT platforms, fintech and dev tools, and I ship every day.
 
-**[4nrry.dev](https://4nrry.dev)** replays my last two years of GitHub, live: 6,000+ contributions
-and 1,000+ pull requests, most of them in private org repos. The site is a Cloudflare Worker that
-re-syncs itself from the GitHub API every six hours
+**[4nrry.dev/dev](https://4nrry.dev/dev)** replays my last two years of GitHub, live: 6,000+
+contributions and 1,000+ pull requests, most of them in private org repos. The site is a Cloudflare
+Worker that re-syncs itself from the GitHub API every six hours
 ([source](https://github.com/4nrry/4nrry.dev)).
+
+I also build sites and custom systems for small businesses; that pitch lives at
+[4nrry.dev](https://4nrry.dev) (pt-BR).
 
 ## Now
 
